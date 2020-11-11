@@ -1,0 +1,35 @@
+header{
+    float:top;
+    
+   }
+   links{
+     position:relative;
+     top:30px;
+   }
+   #cod{
+     width:200px;
+     position:top;
+   }
+   #intro{
+     position:relative;
+     left:30px;
+     }
+   .container{
+     display:flex;
+     height:100%;
+     width:100%;
+     border: 2px solid black;
+     justify-content: center;
+     flex-wrap: wrap;
+   }
+      
+   .item{
+     
+     background-color: skyblue;
+     
+     border: 2px solid black;
+     margin:30px;
+     padding: 10px;
+   
+   }
+   
